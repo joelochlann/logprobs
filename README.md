@@ -76,13 +76,3 @@ The theme defaults to Thanksgiving and is persisted to `localStorage` under the 
    - Auto mode: click Play / Pause to control automatic playback.
    - Step mode: click **Reveal Model's Choice** to see what the model picked, or click a different token in the right-hand list to branch the generation along an alternative path.
 
-## Built With
-
-- React + TypeScript
-- Vite
-- Tailwind CSS
-- OpenAI Chat Completions API (with `logprobs`)
-
-## License
-
-MIT — see [LICENSE](LICENSE).
